@@ -1,0 +1,52 @@
+
+
+#maps {
+	height: 60vh;
+	width: 100%;
+}
+
+#myName {
+	font-style: italic;
+}
+
+#projects {
+	font-style: italic;
+}
+
+#toolText {
+	font-style: italic;
+}
+
+
+/*SOCIAL MEDIA*/
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: ;
+  color: white;
+}
+
+.fa-twitter {
+  background: ;
+  color: white;
+}
+
+.fa-google {
+  background: ;
+  color: white;
+}
+
+
